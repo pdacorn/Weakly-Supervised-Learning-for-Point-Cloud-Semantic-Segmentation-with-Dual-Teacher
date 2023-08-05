@@ -1,4 +1,4 @@
-# Weakly Supervised Learning for Point Cloud Semantic Segmentation with Dual Teacher
+# DCL
 This code and framework are  implemented on [PointNeXt](https://github.com/guochengqian/PointNeXt)
 ## Environment and Datasets
 This codebase was tested with the following environment configurations.

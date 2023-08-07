@@ -4,9 +4,9 @@ This code and framework are  implemented on [PointNeXt](https://github.com/guoch
 This codebase was tested with the following environment configurations.
 
 * Ubuntu 22.04
-* CUDA 11.3
 * Python 3.7
-* Pytorch 1.11
+* CUDA 11.3
+* Pytorch 1.10.1
 
 Please refer to PointNeXt to install other required packages and download datasets.
 

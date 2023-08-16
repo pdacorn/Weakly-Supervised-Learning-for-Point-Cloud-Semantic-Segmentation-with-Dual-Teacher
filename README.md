@@ -1,5 +1,6 @@
 # DCL
 This code and framework are  implemented on [PointNeXt](https://github.com/guochengqian/PointNeXt)
+
 ## Environment and Datasets
 This codebase was tested with the following environment configurations.
 
@@ -11,6 +12,16 @@ This codebase was tested with the following environment configurations.
 Please refer to PointNeXt to install other required packages and download datasets.
 
 ## Usage
+
+1. To accelerate and stabilize the training process, the first step is to train using only labeled data. After this step, the model is saved in the log folder. 
+
+````
+run ./pre_supervised/pre_supervised.py
+````
+
+2. 
+
+
 
 ## Acknowledgement
 The code is built on PointNeXt. We thank the authors for sharing the codes.

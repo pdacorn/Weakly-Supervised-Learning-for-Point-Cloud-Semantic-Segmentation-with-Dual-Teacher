@@ -1,7 +1,7 @@
 # DCL
-This is the PyTorch implementation for 《Weakly Supervised Learning for Point Cloud Semantic Segmentation with Dual Teacher》
+This is the PyTorch implementation for 《Weakly Supervised Learning for Point Cloud Semantic Segmentation with Dual Teacher》.
 
-This code and framework are  implemented on [PointNeXt](https://github.com/guochengqian/PointNeXt)
+This code and framework are  implemented on [PointNeXt](https://github.com/guochengqian/PointNeXt).
 
 >Point cloud semantic segmentation has achieved
 considerable progress in the past decade. To alleviate expensive

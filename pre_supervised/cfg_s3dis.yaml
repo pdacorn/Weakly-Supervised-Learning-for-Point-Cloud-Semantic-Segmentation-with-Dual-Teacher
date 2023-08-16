@@ -21,7 +21,7 @@ feature_keys: x,heights
 dataset:
   common:
     NAME: S3DIS
-    data_root: /home/ybc/桌面/Dataset/
+    data_root: /home/ybc/桌面/Dataset/   # dataset path
     test_area: 5
     voxel_size: 0.04
   train:

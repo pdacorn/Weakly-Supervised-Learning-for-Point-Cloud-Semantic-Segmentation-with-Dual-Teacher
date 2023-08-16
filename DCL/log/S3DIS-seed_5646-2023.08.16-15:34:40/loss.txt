@@ -1,0 +1,6 @@
+loss_sup_a: 1.356,  loss_contra_a: 0.975,  loss_fc_a: 0.983,  loss_pt_a: 1.208,  loss_sup_b: 1.266,  loss_contra_b: 0.971,  loss_fc_b: 0.983,  loss_pt_b: 1.209
+loss_sup_a: 1.221,  loss_contra_a: 0.998,  loss_fc_a: 0.923,  loss_pt_a: 1.210,  loss_sup_b: 1.164,  loss_contra_b: 0.990,  loss_fc_b: 0.935,  loss_pt_b: 1.200
+loss_sup_a: 1.405,  loss_contra_a: 0.993,  loss_fc_a: 0.981,  loss_pt_a: 1.207,  loss_sup_b: 1.347,  loss_contra_b: 1.001,  loss_fc_b: 0.979,  loss_pt_b: 1.202
+loss_sup_a: 1.292,  loss_contra_a: 0.994,  loss_fc_a: 0.905,  loss_pt_a: 1.204,  loss_sup_b: 1.296,  loss_contra_b: 0.994,  loss_fc_b: 0.975,  loss_pt_b: 1.196
+loss_sup_a: 1.200,  loss_contra_a: 0.883,  loss_fc_a: 0.812,  loss_pt_a: 1.212,  loss_sup_b: 1.339,  loss_contra_b: 0.949,  loss_fc_b: 0.860,  loss_pt_b: 1.205
+loss_sup_a: 1.361,  loss_contra_a: 1.009,  loss_fc_a: 0.814,  loss_pt_a: 1.197,  loss_sup_b: 1.162,  loss_contra_b: 1.024,  loss_fc_b: 0.874,  loss_pt_b: 1.195
